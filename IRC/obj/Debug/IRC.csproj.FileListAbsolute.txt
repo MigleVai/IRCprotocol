@@ -1,0 +1,10 @@
+C:\Users\Migle\Documents\TOP\MyFirstProject\IRC\IRC\bin\Debug\IRC.exe.config
+C:\Users\Migle\Documents\TOP\MyFirstProject\IRC\IRC\bin\Debug\IRC.exe
+C:\Users\Migle\Documents\TOP\MyFirstProject\IRC\IRC\bin\Debug\IRC.pdb
+C:\Users\Migle\Documents\TOP\MyFirstProject\IRC\IRC\obj\Debug\IRC.Properties.Resources.resources
+C:\Users\Migle\Documents\TOP\MyFirstProject\IRC\IRC\obj\Debug\IRC.csproj.GenerateResource.Cache
+C:\Users\Migle\Documents\TOP\MyFirstProject\IRC\IRC\obj\Debug\IRC.exe
+C:\Users\Migle\Documents\TOP\MyFirstProject\IRC\IRC\obj\Debug\IRC.pdb
+C:\Users\Migle\Documents\TOP\MyFirstProject\IRC\IRC\obj\Debug\IRC.csprojResolveAssemblyReference.cache
+C:\Users\Migle\Documents\TOP\MyFirstProject\IRC\IRC\obj\Debug\IRC.LoginForm.resources
+C:\Users\Migle\Documents\TOP\MyFirstProject\IRC\IRC\obj\Debug\IRC.ChatForm.resources
